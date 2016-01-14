@@ -9,7 +9,7 @@ header {
 	top: 0;
 	height: 75px;
 	width: 100%;
-	color: gray;
+	background-color: gray;
 }
 header img {
 	margin-left: 15%;
