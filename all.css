@@ -30,6 +30,7 @@ div#aboutMe {
 	display: block;
 	background-color: gray;
 	border-radius: 10px;
+	clear: right;
 }
 div#aboutMe img {
 	width: 50%;
