@@ -26,3 +26,11 @@ div#content {
 	margin-right: 15%;
 	margin-left: 15%;
 }
+div#aboutMe {
+	display: block;
+	background-color: gray;
+	border-radius: 10px;
+}
+div#aboutMe img {
+	width: 50%;
+}
