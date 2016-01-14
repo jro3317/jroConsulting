@@ -36,3 +36,7 @@ div#aboutMe img {
 	float: right;
 	padding: 20px;
 }
+div#aboutMe p {
+	margin: 20px;	
+}
+}
