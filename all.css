@@ -20,12 +20,14 @@ header img {
 	margin-top: 12.5px;
 }
 header nav{
-	position: relative;
-	right: 5px;
+
 }
 header nav ul {
 	display: table;
 	list-style: none;
+}
+header nav ul li {
+	display: table-cell;
 }
 html {
 	margin-top: 100px;
