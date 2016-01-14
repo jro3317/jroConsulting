@@ -33,4 +33,5 @@ div#aboutMe {
 }
 div#aboutMe img {
 	width: 50%;
+	float: right;
 }
