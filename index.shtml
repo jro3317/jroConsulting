@@ -25,9 +25,11 @@
 <p>Ut rutrum risus felis, eget ornare augue gravida id. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris imperdiet lectus in ornare ornare. Mauris ac sapien massa. Pellentesque semper urna risus, sit amet pretium nunc maximus sit amet. Sed id arcu non lorem consequat condimentum a id lacus. In id purus eu neque viverra tristique. Fusce vel interdum eros, ut cursus nulla. Pellentesque vitae lorem non lacus congue pellentesque at at nisi. Aliquam a nunc a velit tristique fermentum id non turpis. Pellentesque condimentum erat nibh. Praesent eleifend hendrerit justo, quis pulvinar erat.</p>
 <div id="aboutMe">
 <img src="media/profile_pic_2.png" alt="PROFILE PIC">
+<div id="text">
 <h1>About Me</h1>
 <p>My name is Jack Owens and I am from Arlington, VA. </p>
 <p>For more infromation, please visit my personal website: <a href="http://jackowens.info">jackowens.info</></p>
+</div>
 </div>
 </div>
 </body>
