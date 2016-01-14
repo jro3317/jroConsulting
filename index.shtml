@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JRO Consulting</title>
+	<link rel="shortcut icon" type="image/png" href="media/favicon.png"/>
+	<link rel="apple-touch-icon" href="media/apple-touch-icon.png">
+    <style>
+        @import url(all.css);
+    </style>
+</head>
+
+<body>
+<div id="logo">
+<img src="media/logo.png" alt="LOGO">
+</div>
+<div id="content">
+<h1>Welcome...</h1>
+<p>Welcome to JRO Consultings website. I am a highschool student in Arlington, V</p>
+</div>
+</body>
+
+</html>
