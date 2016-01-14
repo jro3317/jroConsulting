@@ -34,4 +34,5 @@ div#aboutMe {
 div#aboutMe img {
 	width: 25%;
 	float: right;
+	padding-right: 10px;
 }
