@@ -30,9 +30,8 @@ div#aboutMe {
 	display: block;
 	background-color: gray;
 	border-radius: 10px;
-	clear: both;
 }
 div#aboutMe img {
-	width: 50%;
+	width: 25%;
 	float: right;
 }
