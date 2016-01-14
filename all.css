@@ -21,4 +21,7 @@ header img {
 html {
 	margin-top: 75px;
 }
-
+div#content {
+	margin-right: 15%;
+	margin-left: 15%;
+}
