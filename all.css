@@ -19,16 +19,6 @@ header img {
 	height: 75px;
 	margin-top: 12.5px;
 }
-header nav{
-
-}
-header nav ul {
-	display: table;
-	list-style: none;
-}
-header nav ul li {
-	display: table-cell;
-}
 html {
 	margin-top: 100px;
 }
